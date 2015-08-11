@@ -1,0 +1,15 @@
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/CampaignImageCell.nib
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/MainMenuForGuestViewController.nib
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/MainMenuForMemberViewController.nib
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/bin/iPhoneSimulator/Debug/SDWebImage.dll
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/bin/iPhoneSimulator/Debug/ParalaxViewPager.exe.mdb
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/bin/iPhoneSimulator/Debug/ParalaxViewPager.exe
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ParalaxViewPager.exe
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ParalaxViewPager.exe.mdb
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/ImageCell.nib
+/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/ibtool/CollectionViewController.nib

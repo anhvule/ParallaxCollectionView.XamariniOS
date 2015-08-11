@@ -1,0 +1,37 @@
+# Version: 8.10.3.2 (8b265d6)
+# [first argument, ignore] # /Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.3.2/bin/mtouch \
+	--cache \
+	/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/bin/iPhoneSimulator/Debug/ParalaxViewPager.app \
+	--executable \
+	ParalaxViewPager \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.4 \
+	--targetver \
+	8.4 \
+	--abi=i386 \
+	--symbollist \
+	/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/vule/Projects/ParalaxViewPager/Components/sdwebimage-3.7.1.4/lib/ios-unified/SDWebImage.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/vule/Projects/ParalaxViewPager/Components/sdwebimage-3.7.1.4/lib/ios-unified/SDWebImage.dll \
+	/Users/vule/Projects/ParalaxViewPager/ParalaxViewPager/bin/iPhoneSimulator/Debug//ParalaxViewPager.exe \

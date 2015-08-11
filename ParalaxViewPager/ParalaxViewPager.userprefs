@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="ParalaxViewPager/ParalaxViewPager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParalaxViewPager/MainMenuForGuestViewController.cs">
+    <Files>
+      <File FileName="ParalaxViewPager/CollectionView/CampaignCollectionDelegate.cs" Line="17" Column="42" />
+      <File FileName="ParalaxViewPager/CampaignCollectionWithPanel/CampaignCollectionWithPanelDelegate.cs" Line="16" Column="57" />
+      <File FileName="ParalaxViewPager/CampaignCollectionWithPanel/CampaignCollectionWithPanelSource.cs" Line="10" Column="70" />
+      <File FileName="ParalaxViewPager/CollectionView/CampaignCollectionSource.cs" Line="15" Column="39" />
+      <File FileName="ParalaxViewPager/MainMenuForGuestViewController.cs" Line="41" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ParalaxViewPager" expanded="True">
+            <Node name="ParalaxViewPager" expanded="True">
+              <Node name="CampaignCollectionWithPanel" expanded="True">
+                <Node name="CampaignImageCell.designer.cs" selected="True" />
+              </Node>
+              <Node name="CollectionView" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
